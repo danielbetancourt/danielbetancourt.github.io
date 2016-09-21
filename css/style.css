@@ -1,0 +1,265 @@
+/* 
+font-family: 'Droid Serif', serif;
+font-family: 'Crimson Text', serif;
+para h3= font-family: 'Oswald', sans-serif;
+para h1 = font-family: 'Chonburi', cursive;
+para h2 = font-family: 'Peralta', cursive;
+*/
+
+#contenidos{
+	width: 1100px;
+	height: auto;
+	margin: center;
+	position: center;
+	margin-left: 122px;
+	
+}
+
+/*ETIQUETAS*/
+
+body{
+	background: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+h1{
+	font-family: 'Chonburi', cursive;
+	margin-left: 10px;
+	font-size: 30px;
+	text-align: center;
+	color: orange;
+}
+
+h2{
+	font-family: 'Peralta', cursive;
+	
+	font-size: 38px;
+	
+	color: black;
+
+	text-align: center;
+	
+}
+
+
+h3{
+	
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	color: black;
+	text-align: center;
+}
+
+
+h4{
+	color: black;
+	margin-left: 80px;
+}
+
+h5{
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	
+}
+
+h6{
+	font-size: 15px;
+}
+
+h7{
+	font-size: 18px;
+	margin-left: 10px;
+}
+
+h8{
+	margin-left: 120px;
+	
+}
+
+h9{
+	margin-left: 110px;
+}
+
+h10{
+	margin-left: 80px;
+}
+
+h11{
+	margin-left: 50px;
+}
+
+h12{
+	margin-left: 145px;
+}
+
+h13{
+	margin-left: 143px;
+}
+
+h14{
+	margin-left: 40px;
+}
+
+h15{
+	margin-left: 205px;
+}
+h16{
+	margin-left: 250px;
+}
+
+h17{
+	margin-left: 250px;
+}
+
+h19{
+	color: white;
+}
+
+h20{
+	color: white;
+}
+
+header{
+	width: 1100px;
+	height: auto;
+	background: white;
+	border-radius: 10px;
+	margin-top: 50px;
+
+
+}
+
+nav{
+	width: 1100px;
+	height: 60px;
+	background: rgb(242, 184, 13);
+	border-radius: 10px;
+	margin-top: -100px;
+
+}
+
+
+ul{
+	margin: 45px;
+	padding: auto;
+	list-style: 500px;
+	margin-top: 120px;
+}
+
+
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: rgb(83, 129, 254);
+	margin: 10px;
+	border-radius: 10px;
+	box-shadow: 0 0 20px black inset;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	font color: black;
+	width: 120px;
+	text-align: center;
+}
+
+
+section{
+	width: 711px;
+	background: rgb(0, 102, 128);
+	height: 1000px;
+	float: left;
+	margin-top: 1px;
+	border-radius: 10px;
+
+}
+
+aside{
+	width: 380px;
+	height: 1000px;
+	float: left;
+	margin-left: 9px;
+	margin-top: 1px;
+	border-radius: 10px;
+	text-align: left;
+	background: rgb(163, 41, 204);
+}
+
+footer{
+	width: 1080px;
+	height: 90px;
+	background: white;
+	float: left;
+	margin-top: 33px;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 100px;
+
+}
+
+p{
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+p1{
+	margin-left: 42px;
+}
+
+p2{
+	margin-left: 500px;
+}
+
+
+span1{
+	margin-left: 100px;
+	margin-top: 100px;
+}
+
+span2{
+	margin-left: 100px;
+	margin-top: 100px;
+}
+
+div4 {
+	position: absolute;
+	top: 1570px;
+	left: 950px;
+}
+
+div5 {
+	position: absolute;
+	top: 1525px;
+	left: 150px;
+}
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 15px white;}
+.menu:active{color: white; text-decoration: none;}
+
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
